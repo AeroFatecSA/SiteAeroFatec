@@ -1,2 +1,0 @@
-wwwroot\style.css
-C:\Users\Dell\ProjGitHubAero\SiteAeroFatec\website\wwwroot\style.css
