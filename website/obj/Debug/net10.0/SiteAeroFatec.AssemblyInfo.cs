@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SiteAeroFatec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b1839c7e677094b956ac4e2ab913e3433b6cf0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b835f78ea60e22c866ba9912144c652424022499")]
 [assembly: System.Reflection.AssemblyProductAttribute("SiteAeroFatec")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SiteAeroFatec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
